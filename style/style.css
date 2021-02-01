@@ -1,0 +1,53 @@
+/*Import Montserrat fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700;800;900&display=swap');
+
+/*Fonts*/
+*{
+    font-family: Montserrat, sans-serif;
+    font-style: normal;
+    color: rgba(31, 32, 65, 0.75);
+    font-weight: 400;
+    font-size: 14px;
+}
+
+H1,H2,H3{
+    color: rgba(31, 32, 65, 1);
+    font-weight: 700;
+}
+
+H1{
+    line-height: 29px;
+    font-size: 24px;
+}
+
+H2{
+    line-height: 23px;
+    font-size: 19px;
+}
+
+H3{
+    line-height: 15px;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+/*Form elements*/
+/*Inputs*/
+input{
+    width: 320px;
+    height: 44px;
+    border: 1px solid rgba(31, 32, 65, 0.25);
+    border-radius: 4px;
+}
+
+input::placeholder{
+    color: rgba(31, 32, 65, 0.25);
+}
+
+input:hover, input:focus{
+    border: 1px solid rgba(31, 32, 65, 0.5);
+}
+
+input:focus::placeholder, input:hover::placeholder{
+    color: rgba(31, 32, 65, 0.75);
+}

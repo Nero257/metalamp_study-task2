@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="386ab31c-0032-4b0f-a6ac-2a9ac3f2cea1" name="Default Changelist" comment="" />
+    <list default="true" id="386ab31c-0032-4b0f-a6ac-2a9ac3f2cea1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,8 +44,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612170974248</updated>
-      <workItem from="1612170975534" duration="3330000" />
+      <workItem from="1612170975534" duration="13220000" />
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1334" y="307" key="#Inspections" timestamp="1612182890729">
+      <screen x="-1920" y="109" width="1920" height="1040" />
+    </state>
+    <state x="-1334" y="307" key="#Inspections/0.0.1858.1080/-1920.109.1920.1040@-1920.109.1920.1040" timestamp="1612182890729" />
+    <state x="-1353" y="239" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1612190095136">
+      <screen x="-1920" y="109" width="1920" height="1040" />
+    </state>
+    <state x="-1353" y="239" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1858.1080/-1920.109.1920.1040@-1920.109.1920.1040" timestamp="1612190095136" />
   </component>
 </project>
